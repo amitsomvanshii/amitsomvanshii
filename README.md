@@ -23,14 +23,6 @@
 
 - ⚡ Fun fact **I think i am Funny**
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31274hntsol5eya4f67toja5fovq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31274hntsol5eya4f67toja5fovq&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amitsomvanshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitsomvanshii" height="30" width="40" /></a>
