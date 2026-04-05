@@ -23,10 +23,6 @@
 
 - ⚡ Fun fact **I think i am Funny**
 
-<img src="https://raw.githubusercontent.com/amitsomvanshii/amitsomvanshii/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31274hntsol5eya4f67toja5fovq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31274hntsol5eya4f67toja5fovq&count=1" alt="Spotify recently played"  />
