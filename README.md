@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Tools**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-99ry.onrender.com/](https://myportfolio-99ry.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-701w.onrender.com/](https://portfolio-701w.onrender.com/)
 
 - 💬 Ask me about **Data Analytics, Visualizations, Machine Learning, AI**
 
