@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst & Business Analyst from India</h3>
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBjcTVyNzlzdG82bnRpN3JudjQ0cXJ6ZDZjYXc0dmV4eTQ0MDMwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif"  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t4M3dpYzlhZ3Z3Y2ptaTZ4bGlvMXJlam1ocmNsODZtYTNncWx3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
 </div>
 
 ###
